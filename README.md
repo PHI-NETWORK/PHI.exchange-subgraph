@@ -6,19 +6,19 @@ Currently, there are multiple subgraphs, but additional subgraphs can be added t
 
 ## Subgraphs
 
-1. **[Blocks](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks)**: Tracks all blocks on Binance Smart Chain.
+1. **[Blocks](https://thegraph.com/legacy-explorer/subgraph/phix/blocks)**: Tracks all blocks on PHI Smart Chain.
 
-2. **[Exchange](https://pancakeswap.medium.com/pancakeswap-info-relaunch-in-partnership-with-150-000-bounty-winner-streamingfast-f7892559d388)**: Tracks all PancakeSwap Exchange data with price, volume, liquidity, ...
+2. **[Exchange](https://app.phi.exchange/swap)**: Tracks all PancakeSwap Exchange data with price, volume, liquidity, ...
 
-3. **[Farm Auctions](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/farm-auctions)**: Tracks all PancakeSwap Farm Auctions with auctions and bids.
+3. **[Farm Auctions](https://thegraph.com/legacy-explorer/subgraph/phix/farm-auctions)**: Tracks all PancakeSwap Farm Auctions with auctions and bids.
 
-4. **[Lottery](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/lottery)**: Tracks all PancakeSwap Lottery with rounds, draws and tickets.
+4. **[Lottery](https://thegraph.com/legacy-explorer/subgraph/phix/lottery)**: Tracks all PancakeSwap Lottery with rounds, draws and tickets.
 
-5. **[NFT Market (v1)](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/nft-market)**: Tracks all PancakeSwap NFT Market for ERC-721.
+5. **[NFT Market (v1)](https://thegraph.com/legacy-explorer/subgraph/phix/nft-market)**: Tracks all PancakeSwap NFT Market for ERC-721.
 
-6. **[Pairs](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/pairs)**: Tracks all PancakeSwap Pairs and Tokens.
+6. **[Pairs](https://thegraph.com/legacy-explorer/subgraph/phix/pairs)**: Tracks all PancakeSwap Pairs and Tokens.
 
-7. **[Pancake Squad](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/pancake-squad)**: Tracks all Pancake Squad metrics with Owners, Tokens (including metadata), and Transactions.
+7. **[Pancake Squad](https://thegraph.com/legacy-explorer/subgraph/phix/phix-squad)**: Tracks all Pancake Squad metrics with Owners, Tokens (including metadata), and Transactions.
 
 8. **[Prediction (v1)](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/prediction)**: Tracks all PancakeSwap Prediction (v1) with market, rounds, and bets.
 
